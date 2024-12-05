@@ -1,4 +1,4 @@
-# Chapter-2
+# Chapter-2: Creating a Hello World App
 ### What I Learned:
 This chapter introduced me to the fundamental structure of a Flutter application, focusing on the concept of the widget tree, which is the backbone of Flutter's UI development. I learned how every element in a Flutter app, from text to buttons, is a widget, and how these widgets are organized in a hierarchical tree to define the user interface. Additionally, I became familiar with the main.dart file, which serves as the entry point for every Flutter project, and how to use the MaterialApp and Scaffold widgets to structure a basic app layout.
 
