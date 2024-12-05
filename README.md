@@ -1,2 +1,3 @@
 # Chapter-2
-Mobile app Development in Flutter
+In creating a Hello World App, provided hands-on experience in building a basic Flutter application. I learned about Flutter's widget tree, UI creation, and wrote my first Flutter app using Dart. Key takeaways included understanding the hierarchical widget structure, designing user interfaces with Flutter's widget library, and deploying apps on emulators and physical devices. 
+Successfully building and running the "Hello World" app on both platforms solidified my grasp of Flutter fundamentals. This practical experience familiarized me with Dart syntax, widget trees, and cross-platform deployment. Next steps include exploring advanced widgets, layout management, event handling, and state management to build more complex applications.
